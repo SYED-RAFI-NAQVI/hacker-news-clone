@@ -1,0 +1,24 @@
+.story{
+    border: 1px solid rgb(255, 243, 228);
+    background-color: bisque;
+}
+
+.story_url{
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    color: #10a2ff;
+    cursor:pointer;
+    font-family: 'Roboto', sans-serif;
+}
+
+.story_title{
+    font-size: 18px;
+    font-family: 'Zilla Slab', serif;
+}
+
+.story_score{
+    font-size: 14px;
+    font-family: 'Domine', serif;
+}
